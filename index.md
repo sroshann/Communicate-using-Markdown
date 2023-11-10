@@ -6,3 +6,9 @@
 ###### This is a h6 heading
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```c
+int main() {
+  printf("Helllo!!! this is Shamil Roshan");
+}
+```
